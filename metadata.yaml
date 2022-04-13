@@ -1,0 +1,42 @@
+_repo: Cousin-Lucy-at-Study-By-the-Author-of-the-Rollo-Books_67601
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Erodore
+    - Marianne
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: https://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_issued: '2022-03-10'
+identifiers:
+  gutenberg: '67601'
+  lccn: '2014657772'
+language: en
+pgterms:marc904: https://archive.org/details/cousinlucyatstud00abbo
+pgterms:marc905: 20150703034834abbott
+pgterms:marc906: '1841'
+pgterms:marc907: US
+production_note: Sue Clark and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Clark, Austin & Smith,1841,pubdate 1854.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Lucy books
+subjects:
+- !lcsh 'Families -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Children with disabilities -- Juvenile fiction'
+- !lcsh 'Money -- Juvenile fiction'
+- !lcsh 'Parent and child -- Juvenile fiction'
+- GITenberg
+title: "Cousin Lucy at Study\r\nBy the Author of the Rollo Books"
+url: http://www.gutenberg.org/ebooks/67601
